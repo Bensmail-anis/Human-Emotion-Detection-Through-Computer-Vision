@@ -42,7 +42,7 @@ Detailed and well-documented Jupyter notebooks that explain each step of the pro
     
 *   **Human\_Emotion\_Detection\_using\_Transfer\_Learning\_with\_EfficientNetB4.ipynb**: Explains the transfer learning approach using EfficientNetB4.
 
-*   **Exploring VGG16/ EfficientNetB5/EfficientNetB4 for Human Emotion Detection with Grad-CAM Visualization.ipynb** : For intermidiate layers visualizations , Grad-CAM method , additional training for VGG16 and EfficientNetB5 
+*   **Exploring VGG16/ EfficientNetB5/EfficientNetB4 for Human Emotion Detection with Grad-CAM Visualization.ipynb** : For intermediate layers visualizations , Grad-CAM method , additional training for VGG16 and EfficientNetB5 
     
 
 #### **4\. results/**
